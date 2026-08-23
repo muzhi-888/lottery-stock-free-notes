@@ -44,3 +44,14 @@
 ---
 
 *转载请注明出处「观弈者」。本仓库内容持续更新。*
+
+## 在线选号看板（GitHub Pages，免下载直接用）
+
+本仓库已部署 GitHub Pages，点击下方链接即可在浏览器直接使用动态走势 + 智能选号工具：
+
+- [双色球动态走势 + 智能选号](https://muzhi-888.github.io/lottery-stock-free-notes/ssq.html)
+- [福彩3D 动态走势 + 智能选号](https://muzhi-888.github.io/lottery-stock-free-notes/fc3d.html)
+- [七乐彩动态走势 + 智能选号](https://muzhi-888.github.io/lottery-stock-free-notes/qlc.html)
+- [快乐8 动态走势 + 智能选号](https://muzhi-888.github.io/lottery-stock-free-notes/kl8.html)
+
+> 工具仅供娱乐参考与概率观察，不构成任何投注建议。理性购彩，量力而行。
